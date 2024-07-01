@@ -6,6 +6,8 @@ Version 1 can do one-two web page operations like [post a tweet on X](https://x.
 
 Version 2 is an attempt to make it able to search and copy/paste URLs. It's not robust yet. 
 
+
+
 Disclaimer: Not a robust project, experimental in nature
 
 - This project creates an AI assistant using Claude 3.5 Sonnet to control a web browser via Vimium extension commands.
@@ -23,6 +25,8 @@ Setup:
 6. Export your Anthropic API key: `export ANTHROPIC_API_KEY=your_api_key_here`
 
 Remember to replace 'your_api_key_here' with your actual Anthropic API key.
+
+**This works only on Mac** To make it work on other OS, change the `focus_chrome` function accordingly.
 
 ## Possible updates
 
