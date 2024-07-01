@@ -1,4 +1,8 @@
-## VimSonet
+## VimSonnet
+
+version 1 can do one-two web page operations like post a tweet on twitter
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">all i wanted to do was post a tweet by claude and that has been done. the screen coordinate approach doesn&#39;t work unless your vision model supports coordinates (some can do, some getting cooked). this approach uses vimium hint tags + pyautogui + 3.5 sonnet function calls <a href="https://t.co/w32UBKBM60">https://t.co/w32UBKBM60</a> <a href="https://t.co/8tCYDMLEhT">pic.twitter.com/8tCYDMLEhT</a></p>&mdash; sankalp (@dejavucoder) <a href="https://twitter.com/dejavucoder/status/1807387424018084345?ref_src=twsrc%5Etfw">June 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Disclaimer: Not a robust project, experimental in nature
 
